@@ -1,10 +1,8 @@
-
 package main
 
 import (
 	"flag"
 	"fmt"
-	"log/slog"
 	"net/http"
 	"os"
 
@@ -108,4 +106,3 @@ func resolveWorkspacePath(cfg config.AppConfig, runtimeCfg config.RuntimeConfig)
 	}
 	return defaultPath
 }
-
