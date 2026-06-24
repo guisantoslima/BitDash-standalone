@@ -1,0 +1,10 @@
+
+[project]
+name = "bitdash-analytics"
+version = "0.1.0"
+description = "Engine analítica do BitDash-standalone (dashboard, relatórios, exports)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
