@@ -10,6 +10,7 @@
 <p align="center">
   <strong>Aplicação local-first para gestão de lançamentos e retiradas de criptoativos, com dashboards analíticos 100% standalone — sem backend externo, sem nuvem.</strong>
 </p>
+
 ---
  
 ## 📑 Navegue pelo projeto
